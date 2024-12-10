@@ -48,11 +48,6 @@ border-color: rgba(0, 0, 0, 0.8);}
 #demo {width:100%;
     max-width:800px;
     margin:auto;}
-
-/* teksti ei näy pienellä näytöllä */ 
-@media (max-width: 600px) 
-    {.carousel-caption 
-    {display: none ;}}
     
 /* marginaali navipalkin ja kuvakarusellin väliin */ 
     #demo  {margin-top:100px}
